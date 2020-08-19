@@ -1,0 +1,11 @@
+config/rules.txt filter=lfs diff=lfs merge=lfs -text
+config/serverconfig.txt filter=lfs diff=lfs merge=lfs -text
+config/sscconfig.json filter=lfs diff=lfs merge=lfs -text
+config/whitelist.txt filter=lfs diff=lfs merge=lfs -text
+config/banlist.txt filter=lfs diff=lfs merge=lfs -text
+config/config.json filter=lfs diff=lfs merge=lfs -text
+config/Fucktimans_Paradise.wld.bak filter=lfs diff=lfs merge=lfs -text
+config/tshock.sqlite filter=lfs diff=lfs merge=lfs -text
+config/Fucktimans_Paradise.wld filter=lfs diff=lfs merge=lfs -text
+config/motd.txt filter=lfs diff=lfs merge=lfs -text
+config/ServerLog.txt filter=lfs diff=lfs merge=lfs -text
